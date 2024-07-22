@@ -1,3 +1,6 @@
 venv
 .DS_Store
 db.sqlite3
+*.pyc
+*/*.pyc
+blog/__pycache__/settings.cpython-311.pyc
