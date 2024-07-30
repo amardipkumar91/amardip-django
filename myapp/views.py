@@ -6,4 +6,4 @@ from django.http import HttpResponse
 
 
 def details(request):
-    return HttpResponse("Hello World ! This is Amardip")
+    return HttpResponse("Hello World ! This is Amardip Kumar")
